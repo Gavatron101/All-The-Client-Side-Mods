@@ -1,6 +1,6 @@
 # Client Side Mods
 
-A list of client-side mods for 1.20.x Forge/NeoForge/Fabric/Quilt/Rift versions.
+A list of client-side mods for 1.20.x Forge/NeoForge/Fabric/Quilt/Rift/Lite Loader/Risugami's ModLoader versions.
 
 Issues, Suggestions, Questions or Concerns? DM me on Discord: gavatron101
 
