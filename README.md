@@ -10,4 +10,4 @@ Important Note: This Github Repository was heavily inspired by UsefulMods by Irm
 
 **What is a client-side mod?**
 
-Client-side mods are **modifications** to the game that run **indepentently** from the **host/server**, these mods come in many different varieties, from visual enhancements and preformance improvements, to audio overhauls.
+A Client-side mod is a **modifications** to the game that runs **indepentently** from the **host/server**, these mods come in many different varieties from visual enhancements and preformance improvements, to audio overhauls.
